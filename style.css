@@ -1,0 +1,29 @@
+ *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+ }
+ h1{
+    background-color: rgb(59, 3, 3);
+    color: white;
+    display: flex;
+    padding: 10px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(47, 107, 84);
+    align-items: center;
+    height: 700px;
+    font-weight: bold; 
+} 
+.div1{
+    background-color: aqua;
+    border: 14px solid black;
+    padding: 30px 20px;
+}
+.div2{
+    border: 5px solid red;
+    margin-top: 40px;
+}
